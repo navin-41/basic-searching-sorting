@@ -1,0 +1,17 @@
+Selection Sort
+
+For i = 0 to n-2
+
+minIndex = i
+
+j = i+1 to n-1
+
+array[j] < array[minIndex]
+
+minIndex = j
+
+End For** (j loop)
+
+array[i] and array[minIndex]
+
+End For (i loop)
